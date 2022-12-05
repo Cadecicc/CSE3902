@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Room 7 XML file -->
+
+<objects>
+	<Locale>
+		<right>0</right>
+		<left>6</left>
+		<up>8</up>
+		<down>0</down>
+		<offset>1024 2112</offset>
+	</Locale>
+	<ItemPickup>
+		<startingPosition>870 -162</startingPosition>
+		<type>Triforce</type>
+	</ItemPickup>
+	<Tile>
+		<startingPosition>1 -1</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>1 -2</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>1 -3</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>1 -4</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>1 -6</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>1 -7</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>1 -8</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>1 -9</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>2 -1</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>3 -1</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>4 -1</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>5 -1</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>6 -1</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>6.5 -1</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>8.5 -1</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>9 -1</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>10 -1</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>11 -1</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>12 -1</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>13 -1</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>14 -1</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>14 -2</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>14 -3</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>14 -4</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>14 -5</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>14 -6</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>14 -7</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>14 -8</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>14 -9</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>13 -9</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>12 -9</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>11 -9</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>10 -9</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>9 -9</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>8 -9</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>7 -9</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>6 -9</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>5 -9</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>4 -9</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>3 -9</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>2 -9</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+    <Tile>
+        <type>EmptyTile</type>
+        <startingPosition>2 -4</startingPosition>
+		<isCollideable>True</isCollideable>
+    </Tile>
+	<Tile>
+		<type>EmptyTile</type>
+		<startingPosition>3 -4</startingPosition>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<type>EmptyTile</type>
+		<startingPosition>4 -4</startingPosition>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<type>EmptyTile</type>
+		<startingPosition>5 -4</startingPosition>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<type>EmptyTile</type>
+		<startingPosition>6 -4</startingPosition>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<type>EmptyTile</type>
+		<startingPosition>7 -4</startingPosition>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<type>EmptyTile</type>
+		<startingPosition>8 -4</startingPosition>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<type>EmptyTile</type>
+		<startingPosition>9 -4</startingPosition>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<type>EmptyTile</type>
+		<startingPosition>10 -4</startingPosition>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<type>EmptyTile</type>
+		<startingPosition>11 -4</startingPosition>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<type>EmptyTile</type>
+		<startingPosition>12 -4</startingPosition>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<type>EmptyTile</type>
+		<startingPosition>13 -4</startingPosition>
+		<isCollideable>True</isCollideable>
+	</Tile>
+    
+</objects>

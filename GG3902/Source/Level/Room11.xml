@@ -1,0 +1,1277 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Room 11 XML file -->
+
+<objects>
+	<Locale>
+		<right>0</right>
+		<left>0</left>
+		<up>1</up>
+		<down>0</down>
+		<offset>0 0</offset>
+	</Locale>
+	<Tile>
+		<startingPosition>-62.5 -32.6</startingPosition>
+		<type>Void</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-62.5 -31.6</startingPosition>
+		<type>Void</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-60.5 -32.6</startingPosition>
+		<type>Void</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-60.5 -31.6</startingPosition>
+		<type>Void</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-60.5 -30.6</startingPosition>
+		<type>Void</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-62.5 -30.6</startingPosition>
+		<type>Void</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-61.5 -30.6</startingPosition>
+		<type>Void</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-72.8 -23.9</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-72.8 -22.9</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-71.8 -23.9</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-71.8 -22.9</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-51.5 -23.4</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-50.5 -23.4</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-50.5 -22.4</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-51.5 -22.4</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-72.8 -42.6</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-71.8 -42.6</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-72.8 -41.6</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-71.8 -41.6</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-52 -42.8</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-52 -41.8</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-51 -42.8</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-51 -41.8</startingPosition>
+		<type>EmptyTile</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-88.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -6.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-87.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-86.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-85.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-84.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-83.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-82.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-81.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-80.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-79.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-78.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-77.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-76.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-75.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-74.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-73.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-72.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-71.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-70.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-69.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-68.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-67.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-66.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-65.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-64.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-63.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-62.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-61.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-60.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-59.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-58.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-57.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-56.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-55.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-54.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-53.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-52.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-51.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-50.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-49.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-48.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-47.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-46.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-45.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-44.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-43.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-42.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-41.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-40.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-39.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-38.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-37.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-36.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-35.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-34.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-33.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -6.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -7.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -8.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -9.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -10.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -11.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -12.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -13.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -14.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -15.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -16.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -17.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -18.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -19.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -20.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -21.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -22.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -23.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -24.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -25.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -26.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -27.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -28.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -29.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -30.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -31.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -32.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -33.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -34.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -35.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -36.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -37.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -38.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -39.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -40.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -41.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -42.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -43.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -44.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -45.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -46.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -47.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -48.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -49.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -50.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -51.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -52.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -53.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -54.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -55.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -56.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -57.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -58.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -59.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -60.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -61.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-32.98 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-33.98 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-34.98 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-35.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-36.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-37.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-38.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-39.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-40.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-41.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-42.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-43.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-44.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-45.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-46.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-47.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-48.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-49.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-50.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-51.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-52.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-53.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-54.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-55.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-56.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-57.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-58.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-59.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-60.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-61.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-62.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-63.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-64.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-65.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-66.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-67.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-68.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-69.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-70.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-71.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-72.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-73.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-74.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-75.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-76.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-77.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-78.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-79.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-80.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-81.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-82.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-83.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-84.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-85.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-86.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-87.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-88.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -62.2</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -61.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -60.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -59.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -58.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -57.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -56.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -55.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -54.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -53.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -52.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -51.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -50.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -49.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -48.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -47.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -46.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -45.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -44.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -43.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -42.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -41.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -40.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -39.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -38.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -37.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -36.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -35.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -34.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -33.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -32.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -31.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -30.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -29.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -28.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -27.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -26.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -25.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -24.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -23.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -22.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -21.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -20.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -19.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -18.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -17.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -16.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -15.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -14.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -13.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -12.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -11.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -10.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -9.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -8.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -7.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -6.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+	<Tile>
+		<startingPosition>-89.43 -5.53</startingPosition>
+		<type>Fire</type>
+		<isCollideable>True</isCollideable>
+	</Tile>
+</objects>

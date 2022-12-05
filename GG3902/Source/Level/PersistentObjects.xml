@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Player XML file -->
+
+<objects>
+	<Player>
+		<startingPosition>512 -496</startingPosition>
+	</Player>
+	<Tile>
+		<startingPosition>0 55</startingPosition>
+		<type>EntireMap</type>
+		<isCollideable>False</isCollideable>
+	</Tile>
+	
+	<Tile>
+		<startingPosition>-100 5</startingPosition>
+		<type>ZombieWorld</type>
+		<isCollideable>False</isCollideable>
+	</Tile>
+	
+	<!-- Room 1 Doors -->
+	<Door>
+		<startingPosition>15 -4</startingPosition>
+		<type>NormalDoor</type>
+		<side>Direction.Right</side>
+	</Door>
+	<Door>
+		<startingPosition>6.5 0</startingPosition>
+		<type>NormalDoor</type>
+		<side>Direction.Up</side>
+	</Door>
+	
+	<!-- Room 2 Doors -->
+	<Door>
+		<startingPosition>22.5 0</startingPosition>
+		<type>NormalDoor</type>
+		<side>Direction.Up</side>
+	</Door>
+	<Door>
+		<startingPosition>16 -4</startingPosition>
+		<type>NormalDoor</type>
+		<side>Direction.Left</side>
+	</Door>
+	
+	<!-- Room 3 Doors -->
+	<Door>
+		<startingPosition>16 7</startingPosition>
+		<type>NormalDoor</type>
+		<side>Direction.Left</side>
+	</Door>
+	<Door>
+		<startingPosition>22.5 1</startingPosition>
+		<type>NormalDoor</type>
+		<side>Direction.Down</side>
+	</Door>
+	
+	<!-- Room 4 Doors -->
+	<Door>
+		<startingPosition>6.5 11</startingPosition>
+		<type>NormalDoor</type>
+		<side>Direction.Up</side>
+	</Door>
+	<Door>
+		<startingPosition>15 7</startingPosition>
+		<type>NormalDoor</type>
+		<side>Direction.Right</side>
+	</Door>
+	<Door>
+		<startingPosition>6.5 1</startingPosition>
+		<type>NormalDoor</type>
+		<side>Direction.Down</side>
+	</Door>
+	
+	<!-- Room 5 Doors -->
+	<Door>
+		<startingPosition>6.5 22</startingPosition>
+		<type>NormalDoor</type>
+		<side>Direction.Up</side>
+	</Door>
+	<Door>
+		<startingPosition>6.5 12</startingPosition>
+		<type>NormalDoor</type>
+		<side>Direction.Down</side>
+	</Door>
+	
+	<!-- Room 6 Doors -->
+	<Door>
+		<startingPosition>6.5 33</startingPosition>
+		<type>NormalDoor</type>
+		<side>Direction.Up</side>
+	</Door>
+	<Door>
+		<startingPosition>15 29</startingPosition>
+		<type>NormalDoor</type>
+		<side>Direction.Right</side>
+	</Door>
+	<Door>
+		<startingPosition>6.5 23</startingPosition>
+		<type>NormalDoor</type>
+		<side>Direction.Down</side>
+	</Door>
+	
+	<!-- Room 7 Doors -->
+	<Door>
+		<startingPosition>16 29</startingPosition>
+		<type>NormalDoor</type>
+		<side>Direction.Left</side>
+	</Door>
+	<Door>
+		<startingPosition>22.5 33</startingPosition>
+		<type>NormalDoor</type>
+		<side>Direction.Up</side>
+	</Door>
+	
+	<!-- Room 8 Doors -->
+	<Door>
+		<startingPosition>16 40</startingPosition>
+		<type>NormalDoor</type>
+		<side>Direction.Left</side>
+	</Door>
+	<Door>
+		<startingPosition>22.5 34</startingPosition>
+		<type>NormalDoor</type>
+		<side>Direction.Down</side>
+	</Door>
+	
+	<!-- Room 9 Doors -->
+	<Door>
+		<startingPosition>6.5 44</startingPosition>
+		<type>NormalDoor</type>
+		<side>Direction.Up</side>
+	</Door>
+	<Door>
+		<startingPosition>15 40</startingPosition>
+		<type>NormalDoor</type>
+		<side>Direction.Right</side>
+	</Door>
+	<Door>
+		<startingPosition>6.5 34</startingPosition>
+		<type>NormalDoor</type>
+		<side>Direction.Down</side>
+	</Door>
+	
+	<!-- Room 10 Doors -->
+	<Door>
+		<startingPosition>6.5 45</startingPosition>
+		<type>NormalDoor</type>
+		<side>Direction.Down</side>
+	</Door>
+</objects>

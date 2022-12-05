@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Round mappings XML file -->
+
+<!-- Each DictionaryExtension represents the entity and the number of said entity in each round -->
+<!-- The last DictionaryExtension is the score multiplier values of various actions that the player can take -->
+<objects>
+	<DictionaryExtension>
+		<dictionary>Tank-1,Spitter-2,Runner-4,Walker-3,Shotgun-1</dictionary>
+	</DictionaryExtension>
+	<DictionaryExtension>
+		<dictionary>Tank-1,Spitter-2,Runner-6,Walker-3,AR-1</dictionary>
+	</DictionaryExtension>
+	<DictionaryExtension>
+		<dictionary>Tank-1,Spitter-3,Runner-8,Walker-3,Heart_Big-1</dictionary>
+	</DictionaryExtension>
+	<DictionaryExtension>
+		<dictionary>Tank-2,Spitter-3,Runner-12,Walker-4,Sniper-1</dictionary>
+	</DictionaryExtension>
+	<DictionaryExtension>
+		<dictionary>Tank-2,Spitter-4,Runner-14,Walker-4,SawbladeGun-1</dictionary>
+	</DictionaryExtension>
+	<DictionaryExtension>
+		<dictionary>Tank-2,Spitter-4,Runner-16,Walker-4,Rocket Launcher-1</dictionary>
+	</DictionaryExtension>
+	<DictionaryExtension>
+		<dictionary>Tank-3,Spitter-5,Runner-17,Walker-5,Heart_Big-1</dictionary>
+	</DictionaryExtension>
+	<DictionaryExtension>
+		<dictionary>Tank-3,Spitter-5,Runner-18,Walker-5,MachineGun-1</dictionary>
+	</DictionaryExtension>
+	<DictionaryExtension>
+		<dictionary>Tank-3,Spitter-6,Runner-19,Walker-5,Finger-1</dictionary>
+	</DictionaryExtension>
+	<DictionaryExtension>
+		<dictionary>Tank-4,Spitter-6,Runner-20,Walker-6,Triforce-1</dictionary>
+	</DictionaryExtension>
+	<DictionaryExtension>
+		<dictionary>Moblin Kill-1,Tank Kill-3,Spitter Kill-2,Runner Kill-5,Walker Kill-1,No Damage Taken-5,Round Finish-10</dictionary>
+	</DictionaryExtension>
+</objects>
