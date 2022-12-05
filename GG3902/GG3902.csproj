@@ -1,0 +1,54 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <PublishReadyToRun>false</PublishReadyToRun>
+    <TieredCompilation>false</TieredCompilation>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <ApplicationIcon>Icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Remove="Source\Controller\LevelControllers\**" />
+    <Compile Remove="Source\Controller\PlayerControllers\**" />
+    <EmbeddedResource Remove="Source\Controller\LevelControllers\**" />
+    <EmbeddedResource Remove="Source\Controller\PlayerControllers\**" />
+    <None Remove="Source\Controller\LevelControllers\**" />
+    <None Remove="Source\Controller\PlayerControllers\**" />
+    <None Remove="Content\Sounds\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Content\Spritesheets\ResumeButton.aseprite" />
+    <None Remove="Icon.ico" />
+    <None Remove="Icon.bmp" />
+    <None Remove="Content\ZeldaEnemies.png" />
+    <None Remove="Source\Enemies\" />
+    <None Remove="Source\State\EntityStates\EnemyStates\" />
+    <None Remove="Source\Controller\EnemyControllers\" />
+    <None Remove="Source\Projectiles\" />
+    <None Remove="Source\Command\EnemyCommands\" />
+    <None Remove="Source\Entity\Projectile\EnemyProjectiles\" />
+    <None Remove="Source\State\ProjectileStates\" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Icon.ico" />
+    <EmbeddedResource Include="Icon.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <MonoGameContentReference Include="Content\Content.mgcb" />
+  </ItemGroup>
+  <ItemGroup>
+    <TrimmerRootAssembly Include="Microsoft.Xna.Framework.Content.ContentTypeReader" Visible="false" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="MonoGame.Framework.DesktopGL" Version="3.8.0.1641" />
+    <PackageReference Include="MonoGame.Content.Builder.Task" Version="3.8.0.1641" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Source\Sprite\EnemySpriteFactory.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Content\Sounds\" />
+  </ItemGroup>
+</Project>
