@@ -1,0 +1,17 @@
+Author of code review: Dylan Woodcum
+
+Date: 04/09/2022
+
+Sprint #4
+
+File being reviewed: Inventory.cs
+
+Author of file: Luke Leedy 
+
+Comments on code quality:
+
+	Big offender of magic numbers specifically in the constructor, but that is to be expected. Inventory was one of the files that was built very quickly in order to meet the deadline, so driving data was not our chief concern. Otherwise, each method sticks to its claimed purpose, and doesn't incur any large compute or memory consumption.
+
+Hypothetical Change:
+
+	Obviously a nice change would be to have each offset already be in a Dictionary or some other structure that is passed into the constructor via an xml file or offset utility class, which could be feasibly done with some time, but alas time was what we lacked in this instance.

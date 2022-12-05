@@ -1,0 +1,10 @@
+Author of code review: Dylan Woodcum
+Date: 04/22/2022
+Sprint 5
+Filename: SoundManager.cs
+Author: Cade Ciccone
+Comments:
+
+Code is exceptional in that it is well-organized, with nearly every method being 1-2 lines in total. It seems to perform the job of a singleton very well.
+
+A hypothetical game change would be a variable volume setting to increase or decrease global or specific game sounds' volumes. This code could easily support that change in my mind.

@@ -1,0 +1,20 @@
+Author of the code review
+    Luke L.
+
+Date of the code review
+    03/12/2022
+
+Sprint number
+    Sprint 3
+
+Name of the .cs file being reviewed
+    Entity.cs
+
+Author of the .cs file being reviewed
+    Sam Reyes
+
+Specific comments on code quality
+    Code quality is gorgeous. Everything makes sense and it is mostly self-documenting.
+
+A hypothetical change to make to the game related to file being reviewed and how the current implementation could or could not easily support that change
+    Entity could contain a DrawOrder variable which would be helpful for drawing Player on top of Tiles (just as an example).

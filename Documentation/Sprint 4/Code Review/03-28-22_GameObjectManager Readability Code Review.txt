@@ -1,0 +1,23 @@
+Author of the code review
+    Luke Leedy
+
+Date of the code review
+    03-28-2022
+
+Sprint number
+    Sprint 4
+
+Name of the .cs file being reviewed
+    GameObjectManager.cs
+
+Author of the .cs file being reviewed
+    Dylan C. & Luke L.
+
+Number of minutes taken to complete the review
+    5 mins
+
+Specific comments on what is readable and what is not
+    Draw method has become more succinct while add and remove methods remain bloated. There are
+	also copies of the add and remove methods that don't seem to have a purpose and an unused
+	queue. The idea of the class is pretty clear but it seems like it hasn't been fully fleshed out
+	in its implementation.

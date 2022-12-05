@@ -1,0 +1,20 @@
+Author of the code review
+	Sam Reyes
+
+Date of the code review
+	04/22/22
+
+Sprint number
+	Sprint 5
+
+Name of the .cs file being reviewed
+	ProjectileState.cs
+
+Author of the .cs file being reviewed
+	
+	Cade Ciccone & Luke Leedy 
+Number of minutes taken to complete the review
+	5 mins
+
+Specific comments on what is readable and what is not
+	This code is pretty easy to understand without comments, but the Enter and Exit methods could use some comments. I don't really understand the 1st else if of Enter, and what Exit is supposed to do.

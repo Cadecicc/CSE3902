@@ -1,0 +1,22 @@
+Ideally:
+1. Player position on map
+2. Map populates as we explore dungeon
+3. Health bar increases as player max health increases
+4. if player takes damage health bar reflects this
+5. pick up item, shows in inventory
+6. highlight selected item
+7. rupee count
+8. key count
+9. bomb count
+
+Realistically:
+1. Add items when pickup
+2. health bar reflects player health
+3. Rupee count - DNF
+4. Bomb count - DNF
+5. Both maps are automatically populated
+6. Highlight selected item
+
+Backlog:
+1. Key count
+2. Player position on map

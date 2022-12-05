@@ -1,0 +1,12 @@
+Author of review: Dylan Woodcum
+Date: 04/22/2022
+Sprint 5
+Filename: RunnerEnemyState
+Author of file: Cade Ciccone
+Time to review: 15 minutes
+Comments on readability:
+
+  -  no comments
+  -  regular state methods are there
+  -  Update() is hard to follow, but each block of code is generally separated by newlines based on purpose of code
+  -  Good job on separating whole tasks to their own secluded methods, even if ultimately they are only called by the prior method in the file. It serves as more help for an unfamiliar reader.

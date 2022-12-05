@@ -1,0 +1,20 @@
+Author of the code review
+Zak Keller
+
+Date of the code review
+02/15/2022
+
+Sprint number
+Sprint 2
+
+Name of the .cs file being reviewed
+Sprite.cs
+
+Author of the .cs file being reviewed
+Luke Leedy
+
+Number of minutes taken to complete the review
+20 minutes
+
+Specific comments on what is readable and what is not
+Constrcutors are very easily understood as variables names are consistent and meaningful. Draw lacks readability as there are many parameters, as well as lengthy parameters in themselves "new Vector2(parent.Position.X, -parent.Position.Y)." Triming this method to only send relevant data rather than sending magic numbers with no contextual meaning.

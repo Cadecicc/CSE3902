@@ -1,0 +1,24 @@
+In the plaintext file for a readability review, include the following information:
+
+Author of the code review
+Dylan C.
+
+Date of the code review
+2/19/2022
+
+Sprint number
+2
+
+Name of the .cs file being reviewed
+Damageable
+
+Author of the .cs file being reviewed
+Luke L.
+
+Number of minutes taken to complete the review
+10
+
+Specific comments on what is readable and what is not
+Everything seems readable, the main thing that seems confusing is on 
+line 13 with the boolean variable Vulnerable. I'm not quite sure what this
+is and what it's doing at the moment

@@ -1,0 +1,20 @@
+Author of the code review
+	Cade C
+
+Date of the code review
+	03/11/2022
+
+Sprint number
+	Sprint 3
+
+Name of the .cs file being reviewed
+	XMLParser.cs
+
+Author of the .cs file being reviewed
+	Luke L.
+
+Specific comments on code quality
+	This class is very well written, I like the design of it a lot. The main function of this class is to return a list of objects being read in from the XML files and that creates a very easy way to add or remove things from the XML files and have the code still work, very well done. I also enjoy the comments left, it makes it much easier to follow.
+
+A hypothetical change to make to the game related to file being reviewed and how the current implementation could or could not easily support that change
+	I do not think many things should be changed in here, as it was written in a future proof way, as mentioned before.

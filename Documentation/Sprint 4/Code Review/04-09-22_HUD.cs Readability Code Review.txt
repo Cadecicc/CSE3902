@@ -1,0 +1,14 @@
+Author of the code review
+	Sam Reyes
+Date of the code review
+	04/09/2022
+Sprint number
+	Sprint 4 
+Name of the .cs file being reviewed
+	HUD.cs
+Author of the .cs file being reviewed
+ 	Luke Leedy & Dylan Woodcum
+Number of minutes taken to complete the review
+	15 minutes 
+Specific comments on what is readable and what is not
+	Most of the methods are self explanitory with some improvements. The for loop at bottom of the HUD constructor is a bit confusing and could use some comments. UpdateHP needs some serious refactoring and commenting. 

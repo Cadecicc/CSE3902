@@ -1,0 +1,20 @@
+Author of the code review
+	Zak Keller
+
+Date of the code review
+	03/11/2022
+
+Sprint number
+	Sprint 3
+
+Name of the .cs file being reviewed
+	Level1
+
+Author of the .cs file being reviewed
+	Dylan W
+
+Specific comments on code quality
+	Code is good and very readable throughout. Lacks comments but code is easy enough for reading. SwitchRooms needs some work, mainly the if else. But overall code is good but there is alot of code.
+
+A hypothetical change to make to the game related to file being reviewed and how the current implementation could or could not easily support that change
+	A change could changing the if else with to a different check to switch rooms as there are many lines for a simple use.

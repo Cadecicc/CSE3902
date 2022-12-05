@@ -1,0 +1,20 @@
+Author of the code review
+	Zak Keller
+
+Date of the code review
+	4/8/2022
+
+Sprint number
+	Sprint 4
+
+Name of the .cs file being reviewed
+	CollisionResponses
+
+Author of the .cs file being reviewed
+	Luke Leedy
+
+Specific comments on code quality
+Code quality is good as much of the handling requires math and specific changes on specific collisions. Clear what everthing is supposed to do and how it is supposed to do it.
+
+A hypothetical change to make to the game related to file being reviewed and how the current implementation could or could not easily support that change
+a change woul dbe to comment the code so reading it makes more sense when reading seemingly random algorithms. There i alot of power within the class and having comments to describe how each method affects the game would be nice to have.

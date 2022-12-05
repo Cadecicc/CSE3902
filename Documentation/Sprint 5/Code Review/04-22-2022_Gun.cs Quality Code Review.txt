@@ -1,0 +1,20 @@
+Author of the code review
+	Zak Keller
+
+Date of the code review
+	4/22/2022
+
+Sprint number
+	Sprint 5
+
+Name of the .cs file being reviewed
+	Gun.cs
+
+Author of the .cs file being reviewed
+	Luke Leedy
+
+Specific comments on code quality
+Easy read and is clear the application of the different varaibles. Well written and the different shooting types are clerar in their distinct purpose.
+
+A hypothetical change to make to the game related to file being reviewed and how the current implementation could or could not easily support that change
+There are a couple of magic numbers that are wihtin the class. Would like to see them not there but the time says otherwise.

@@ -1,0 +1,21 @@
+Code Analysis using Visual Studio:
+
+GG3902/Source/Entity/Door.cs(25,25): Information: Private property 'Door.Sprite' can be converted to a method as its get accessor is never invoked. (GG3902) CodeQuality
+
+GG3902/Source/Entity/Tile.cs(25,25): Information: Private property 'Tile.Sprite' can be converted to a method as its get accessor is never invoked. (GG3902) CodeQuality
+
+GG3902/Source/Clickable/Button/Button.cs(25,25): Information: Private property 'Button.Sprite' can be converted to a method as its get accessor is never invoked. (GG3902) CodeQuality
+
+GG3902/Source/Clickable/Button/Background.cs(25,25): Information: Private property 'Background.Sprite' can be converted to a method as its get accessor is never invoked. (GG3902) CodeQuality
+
+GG3902/Source/UI/PlayerUI.cs(23,23): Information: Private member 'PlayerUI.game' is unused (GG3902) CodeQuality
+
+GG3902/Source/UI/PlayerUI.cs(24,24): Information: Private member 'PlayerUI.player' can be removed as the value assigned to it is never read (GG3902) CodeQuality
+
+GG3902/Source/UI/PlayerUI.cs(29,29): Information: Private member 'PlayerUI.roomManager' can be removed as the value assigned to it is never read (GG3902) CodeQuality
+
+GG3902/Source/UI/UIElement.cs(25,25): Information: Private property 'UIElement.Sprite' can be converted to a method as its get accessor is never invoked. (GG3902) CodeQuality
+
+GG3902/Source/Entity/Player.cs(37,37): Information: Private member 'Player.magicNumber' is unused (GG3902) CodeQuality
+
+GG3902/Source/Entity/Enemy.cs(24,24): Information: Private property 'Enemy.State' can be converted to a method as its get accessor is never invoked. (GG3902) CodeQuality

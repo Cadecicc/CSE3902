@@ -1,0 +1,20 @@
+Author of the code review
+	Zak Keller
+
+Date of the code review
+	4/8/2022
+
+Sprint number
+	Sprint 4
+
+Name of the .cs file being reviewed
+	Damageable
+
+Author of the .cs file being reviewed
+	Luke Leedy
+
+Number of minutes taken to complete the review
+	15
+
+Specific comments on what is readable and what is not
+The comments help to understand the code. The variable names make it very easy to follow and readable. Method names are easy to understand and know the purpose. 

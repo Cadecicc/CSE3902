@@ -1,0 +1,13 @@
+Author: Dylan Woodcum
+Date: 3/11/2022
+Sprint 3
+File name: GamePadController.cs
+File author: Dylan Cummings
+Time to review: 10 minutes
+
+Comments: 
+  -  No magic numbers, everything is well defined
+  -  vars are privated and segmented over
+  -  all methods are data driven
+
+Hypothetical Change: This implementation could feasibly adapt to additional button mappings, but it may need refactoring or additional code to support multiple actions on a single button (also may be beyond the scope of the file)

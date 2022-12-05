@@ -1,0 +1,20 @@
+Author of the code review
+	Cade C.
+
+Date of the code review
+	04/08/2022
+
+Sprint number
+	Sprint 4
+
+Name of the .cs file being reviewed
+	PlayGameState.cs
+
+Author of the .cs file being reviewed
+	Zak K.
+
+Specific comments on code quality
+	Very straightforward and clean. Functions as all other IStates in the game do, with the game itself having a state machine to keep track. Looping through each controller and collider in here is a nice implementation to ensure that these things do not happen when the game is in the pause, title, or ending states. Also, having the background music being played in here ensures that switching rooms does not stop it.
+
+A hypothetical change to make to the game related to the file being reviewed and how the current implementation could or could not easily support that change
+	I cannot think of any changes that would help the game in any way, as this class is pretty short and straightforward as it is written. I think that adding anything here would be unnecessary as this state does not care about anything else other than what is already in it.

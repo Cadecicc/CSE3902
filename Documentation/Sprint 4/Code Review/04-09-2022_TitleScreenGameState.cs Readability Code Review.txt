@@ -1,0 +1,15 @@
+Author of code review: Dylan Woodcum
+
+Date: 04/09/2022
+
+Sprint #4
+
+File being reviewed: TitleScreenGameState.cs
+
+Author of file: Zak Keller
+
+Time to review: 10 minutes
+
+Comments on readability:
+
+	Only comments were inside of the Exit() method, and they were not entirely necessary as the code blocks they explained were quite self-explanatory. However, a game state file is pretty standard and shouldn't need many comments if at all. In that regard, the state's Enter() method is a little crowded and undivided, even though it maybe should have some spacing from where it creates its buttons and where it loads sound-related assets. Update() needed no explanation, pretty standard and easy to understand.

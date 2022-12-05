@@ -1,0 +1,11 @@
+Author: Dylan Woodcum
+Date: 03/12/2022
+Sprint 3
+File: StringConversion.cs
+Author of file: Luke Leedy
+Time to review: 10 minutes
+Comments:
+
+  -  method name ConvertFromToString is a little confusing
+  -  if statements are easy to follow and understand the logic of
+  -  line 22 has a bit of a long return value and makes it hard to understand what exactly is being passed

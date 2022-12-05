@@ -1,0 +1,25 @@
+In the plaintext file for a code quality review, include the following information:
+
+Author of the code review
+Dylan C.
+
+Date of the code review
+04-09-22
+
+Sprint number
+4
+
+Name of the .cs file being reviewed
+EntityManager.cs
+
+Author of the .cs file being reviewed
+Luke L.
+
+Specific comments on code quality
+This is very high level code and more extendable than the previous manager used. Some more comments would be helpful 
+for documentation purposes.
+
+A hypothetical change to make to the game related to file being reviewed and how the current implementation could or 
+could not easily support that change
+A hypothetical change could be the addition of a physics component to the game that could be easier to accomplish
+for all entities given the current implementation.

@@ -1,0 +1,24 @@
+Author of the code review:
+    Dylan C.
+
+Date of the code review:
+    02/07/2022
+
+Sprint number:
+    Sprint 2
+
+Name of the .cs file being reviewed:
+    StateMachine.cs (and player states)
+
+Author of the .cs file being reviewed:
+    Luke L.
+
+Specific comments on code quality:
+    A little bit of redundancy in player states was removed by migrating IController
+	into StateMachine and calling CheckInputs() in the Update method of the player
+	class.
+
+A hypothetical change to make to the game related to file being reviewed and how the
+current implementation could or could not easily support that change:
+    Adding more states will become easier as each one will have a state machine
+	handling all of the updates for them through the main controller.

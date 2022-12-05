@@ -1,0 +1,20 @@
+Author of the code review
+	Zak Keller
+
+Date of the code review
+	4/22/2022
+
+Sprint number
+	Sprint 5
+
+Name of the .cs file being reviewed
+	ToggleButtonFactory.cs
+
+Author of the .cs file being reviewed
+	Dylan Cummings
+
+Number of minutes taken to complete the review
+	10
+
+Specific comments on what is readable and what is not
+It is very readable, just as much as the other factories. The magic numbers are not convincing and wouild like to see where those numbers came from.

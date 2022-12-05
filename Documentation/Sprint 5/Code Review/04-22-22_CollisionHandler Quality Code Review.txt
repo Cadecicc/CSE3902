@@ -1,0 +1,14 @@
+Author of the code review
+    Sam Reyes
+Date of the code review
+    04/22/22
+Sprint number
+    Sprint 5
+Name of the .cs file being reviewed
+    CollisionHandler.cs
+Author of the .cs file being reviewed
+    Luke Leedy & Zak Keller 
+Specific comments on code quality
+     This is very solid code that is handles all of the types of collisions and their responses. All types of collisons are stored in a dictionary and are called when detected by DetectCollisions 
+A hypothetical change to make to the game related to file being reviewed and how the current implementation could or could not easily support that change
+     A hypothetical change that could be made to the game would be adding many other types of collidable objects, but this could could very easily handle their collisions by implementing their collision responses and adding them to the dictionary. 

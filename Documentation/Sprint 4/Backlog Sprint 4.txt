@@ -1,0 +1,13 @@
+Sprint 4 Incompletes:
+
+Enemy movements are still streamlined to a single movement pattern.
+
+Enemies only shoot one projectile type, should be changed.
+
+Ability to walk over water with item still not implemented.
+
+Magic numbers still exist in different parts of the code, not completely data driven yet.
+
+Map does not yet populate in inventory as the dungeon is explored.
+
+Item counts are not reflected in the HUD.

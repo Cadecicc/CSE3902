@@ -1,0 +1,8 @@
+Greasy Games Sprint 5 Reflection:
+
+Greasy Games started off Sprint 5 with a bang. They formed a strong, cohesive plan with clear specifications and
+immediately began implementing new features. Communication was great among the team and everyone stepped up to
+contribute their fair share. In hindsight, the code was a complete mess. Dozens of conditional statements led to
+complex logic and unreadable code. That being said, the work that the team put in during the previous sprints led
+to a strong code foundation that they were easily able to screw up and have a lot of fun with. Everyone on the team
+is satisfied with the work they have accomplished, not only during this sprint but the entire semester.

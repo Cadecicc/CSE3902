@@ -1,0 +1,25 @@
+In the plaintext file for a readability review, include the following information:
+
+Author of the code review
+    Luke Leedy
+	
+Date of the code review
+    02/19/2022
+	
+Sprint number
+    Sprint 2
+	
+Name of the .cs file being reviewed
+    Projectile.cs
+	
+Author of the .cs file being reviewed
+	Cade Ciccone
+
+Number of minutes taken to complete the review
+	5 minutes
+
+Specific comments on what is readable and what is not
+	The fields and properties are not ordered in a way that follows typical
+	conventions. The way the object is being initialized in the constructors
+	is a little confusing. The Initialize method itself is clean as well as
+	the update method.

@@ -1,0 +1,20 @@
+Author of the code review
+Zak Keller
+
+Date of the code review
+2/15/2022
+
+Sprint number
+Sprint 2
+
+Name of the .cs file being reviewed
+TileSpriteFactory.cs
+
+Author of the .cs file being reviewed
+Sam Reyes
+
+Specific comments on code quality
+Code is good as case allows for easy implimentation of added tile types. Lots of magic numbers, including the "scale" for the new Sprite() creation.
+
+A hypothetical change to make to the game related to file being reviewed and how the current implementation could or could not easily support that change
+Add support for changing tilempa rather than hardcoding the name for future change of levels. Introduce a scale variable for use in the return statement.

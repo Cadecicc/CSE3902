@@ -1,0 +1,20 @@
+Author of the code review
+	Cade C.
+
+Date of the code review
+	04/22/2022
+
+Sprint number
+	Sprint 5
+
+Name of the .cs file being reviewed
+	Round.cs
+
+Author of the .cs file being reviewed
+	Dylan W.
+
+Specific comments on code quality
+	The code is a bit hard to follow, especially in the constructor. The comments included in the methods however are very helpful to follow along with the code. Overall, to manage specific parameters and changes needed from round to round, this class is very nice to have and is fairly concise for everything it is doing.
+
+A hypothetical change to make to the game related to file being reviewed and how the current implementation could or could not easily support that change
+	Nothing to change other than commenting through the constructor to help first-time viewers follow along with what exactly that huge constructor is setting up.

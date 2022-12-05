@@ -1,0 +1,22 @@
+In the plaintext file for a code quality review, include the following information:
+
+Author of the code review:
+    Samuel R.
+
+Date of the code review:
+    02/19/2022
+
+Sprint number:
+    Sprint 2 
+
+Name of the .cs file being reviewed:
+    IdlePlayerState.cs 
+
+Author of the .cs file being reviewed:
+    Luke L.
+
+Specific comments on code quality:
+    The code quality is clean and simple with only one issue. There is a coupling issue in the Enter() and Exit() methods with Entity calling three subclasses.
+
+A hypothetical change to make to the game related to file being reviewed and how the current implementation could or could not easily support that change:
+    This class can be deleted if the player movement state can handle when the player is not moving. The current implementation can handle this change. 

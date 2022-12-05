@@ -1,0 +1,7 @@
+Code Analysis using Visual Studio:
+
+A lot of make file readonly
+
+Three instances of not using varaibles, but will need them in future implementations ('MoveShootEnemyState.projectile' and 'projectile' and 'Game1._graphics')
+
+No errors or warnings

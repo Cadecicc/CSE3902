@@ -1,0 +1,15 @@
+Sprint 2 Incompletes:
+
+We did not complete the ICollideable interface by the end the sprint, did not seem necessary to the goals of the sprint.
+
+Enemy movements are completely different, each movement for enemy's needs to be unique
+
+Lacking a proper inventory system
+
+Major refractors needed/underway
+
+Need more factories for instantiating objects like enemies and tiles.
+
+
+
+

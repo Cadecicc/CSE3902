@@ -1,0 +1,37 @@
+What needs to be fixed before Sprint 5:
+-Need a separate controller for inventory state
+-Enemies still kill each other
+-Movement can get messed up while changing rooms
+-HUD needs to display correct rupee counts
+-Always update Link's movement based on keys
+-Colliders match sprite shape
+-Music is f'ing terrible (pls Cade make some bangers)
+
+Needs for Sprint 5:
+-Omnidirectional movement
+-Round-based top-down shooter
+-8 weapons (not including default melee weapon)
+	-Pistol (1)
+	-Shotgun
+	-AR
+	-Sniper (bullet penetration)
+	-Rocket Launcher
+	-Gatling Gun
+	-Finger gun
+	-Sprite gun
+-Enemy Types
+	-Walkers
+	-Runners
+	-Tanks
+	-Spitter
+	-Green and red sprites (from LoZ)
+-Currency
+	-Rupees
+	-Buy special guns
+-Drops
+	-Health
+	-Rupees
+	-Ammo (random type)
+-Design a new map
+-Different sound assets
+	-Brains...

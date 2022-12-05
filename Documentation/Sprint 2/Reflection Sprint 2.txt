@@ -1,0 +1,12 @@
+Greasy Games Sprint 2 Reflection:
+
+Our team did a great of job of charging head first into the sprint. Our design process
+began almost immediately, but this is where things began to fall apart. Since our
+collective design skills are lacking, we quickly found these decisions to be replaced
+by other ones on the fly. Our team soon became disorganized and our communication
+started to fall apart. Towards the end of the sprint, it seemed like, as we became more
+acquainted with each other, our communications improved and we were working better
+together. Going forward, we would like to establish more concrete roles within the
+team (such as project manager, lead programmer, and lead designer) and create a rigid
+plan at the start of each sprint with design decisions that we will stick to. All in
+all, we managed to get through it but there's much room for improvement!

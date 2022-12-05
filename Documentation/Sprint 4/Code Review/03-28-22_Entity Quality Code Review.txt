@@ -1,0 +1,23 @@
+Author of the code review
+    Luke Leedy
+
+Date of the code review
+    03/28/2022
+
+Sprint number
+    Sprint 4
+
+Name of the .cs file being reviewed
+    IGoodDrawable.cs
+
+Author of the .cs file being reviewed
+    Sam Reyes
+
+Specific comments on code quality
+    Nice, simple interface but missing a very important feature! A draw order is
+	necessary to ensure that certain elements are drawn on the screen on top of others.
+	This was easily added to the existing implementation.
+
+A hypothetical change to make to the game related to file being reviewed and how the current implementation could or could not easily support that change
+    Let's say that we instead want to draw enemies on top of the player. This is easily
+	implemented using the new DrawOrder field added to IGoodDrawable.

@@ -1,0 +1,13 @@
+Greasy Games Sprint 3 Reflection:
+
+Began the sprint realizing that our Sprint 2 was terrible and that major refactoring
+was required. As a group, we slowly refactored for the first two weeks until our code
+was close to where we wanted it be. Overall, our design is significantly better than
+it was 3 weeks ago and such will 'hopefully' allow for future sprints to be much easier.
+The changes from refactoring helped make implementing new pieces straight forward and
+also made the group look through all of the code and quickly find what was terrible and
+what was great. We also do a lot of reviews as we code and often work together to get
+tasks done which helps with design and improves coupling and cohesion. Next sprint we
+will be able to focus much less on refactoring and much more on implmenting new features
+and meeting the sprint requiremnets. The group as a whole has been working excellent
+together and everyone has done their part to get the code to where it needs to be.

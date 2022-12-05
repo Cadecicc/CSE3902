@@ -1,0 +1,25 @@
+Author of the code review:
+	Cade C.
+
+Date of the code review:
+	02/16/2022
+
+Sprint number:
+	Sprint 2
+
+Name of the .cs file being reviewed:
+	Level1Controller.cs
+
+Author of the .cs file being reviewed:
+	Luke L.
+
+Specific comments on code quality:
+	Code quality is very clean and simple. The class stands to be more data driven, but overall 		
+	the class functions well and is not bogged down by unnecessary code, as well as being 
+	decoupled from the rest of the code very well.
+
+A hypothetical change to make to the game related to file being reviewed and how the current implementation could or could not easily support that change:
+	The enemy creation and change should be handled in its own controller, but for now this 
+	implementation works well as we could not figure out another way to handle this effectively 
+	and cleanly before the Sprint is due. This change would be difficult to implement so whether 
+	or not it is worth it to change is to be determined.

@@ -1,0 +1,23 @@
+Author of the code review
+    Luke Leedy
+
+Date of the code review
+    04/22/2022
+
+Sprint number
+    Sprint 5
+
+Name of the .cs file being reviewed
+    KeyboardController.cs
+
+Author of the .cs file being reviewed
+    Dylan C.
+
+Specific comments on code quality
+    The clean is well organized and has a methodical structure to it. There is quite a bit of parallelism going on
+    that I think could be reduced with data structures.
+
+A hypothetical change to make to the game related to file being reviewed and how the current implementation could or could not easily support that change
+    Let's say, hypothetically, that we wanted to introduce additional game states (i.e. hi-score game state). Based
+    on the current implementation of this class, we would need to introduce another data structure and an accessor
+    method for it. If we doubled the amount of game states, the amount of code in the class doubles.

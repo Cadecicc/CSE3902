@@ -1,0 +1,20 @@
+Author of the code review:
+	Cade C.
+
+Date of the code review:
+	02/19/2022
+
+Sprint number:
+	Sprint 2
+
+Name of the .cs file being reviewed:
+	Level1.cs
+
+Author of the .cs file being reviewed:
+	Luke L.
+
+Number of minutes taken to complete the review:
+	10 minutes
+
+Specific comments on what is readable and what is not:
+	Very very helpful comments splitting up the player, enemy, and other content. Without these sections the code would be too hard to read. This class is just meant to add components into the game, so it is not that important to be readable anyways. The comments made it perfect to understand and read, well done.

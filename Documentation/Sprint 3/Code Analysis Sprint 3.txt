@@ -1,0 +1,15 @@
+Code Analysis using Visual Studio:
+
+A lot of make file readonly
+
+Have unreachable code that has not been implemented as a warning
+
+Severity	Code	Description	Project	File	Line	Suppression State
+Message	IDE0052	Private property 'Projectile.Movement' can be converted to a method as its get accessor is never invoked.	GG3902	C:\Users\zakke\OneDrive\Documents\GG3902\GG3902\Source\Projectile\Projectile.cs	18	Active
+
+Severity	Code	Description	Project	File	Line	Suppression State
+Message	IDE0028	Collection initialization can be simplified	GG3902	C:\Users\zakke\OneDrive\Documents\GG3902\GG3902\Source\Level\Level1.cs	163	Active
+
+
+
+No errors with one warning

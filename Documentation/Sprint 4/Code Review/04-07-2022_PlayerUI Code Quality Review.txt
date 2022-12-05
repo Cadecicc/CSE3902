@@ -1,0 +1,14 @@
+Author of the code review
+	Sam Reyes
+Date of the code review
+	04/07/2022
+Sprint number
+	Sprint 4
+Name of the .cs file being reviewed
+	PlayerUI.cs
+Author of the .cs file being reviewed
+	Luke Leedy
+Specific comments on code quality
+	Very solid player UI manager with easy to understand code, and good use of Events to check for the types of items that have been picked up.
+A hypothetical change to make to the game related to file being reviewed and how the current implementation could or could not easily support that change
+	Instead of using Events, the PlayerUI class could be sent a player object and check through its classes to use the inventory of the player. This implemenation would be less convenient than the current implementation as the player ui would be tightly coupled with player objects. 

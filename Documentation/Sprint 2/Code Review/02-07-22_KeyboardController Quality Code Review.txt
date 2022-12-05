@@ -1,0 +1,20 @@
+Author of the code review:
+    Luke L.
+
+Date of the code review:
+    02/07/2022
+
+Sprint number:
+    Sprint 2
+
+Name of the .cs file being reviewed:
+    KeyboardController.cs
+
+Author of the .cs file being reviewed:
+    Dylan C.
+
+Specific comments on code quality:
+    Code quality is good. The class is data driven, which is really nice. Made the CheckInputs() method virtual to allow for behaviour extension. Fixed a null reference error.
+
+A hypothetical change to make to the game related to file being reviewed and how the current implementation could or could not easily support that change:
+    If we want a controller that takes input using not only the keyboard but also other conditions, this is easily supported by the change.

@@ -1,0 +1,23 @@
+In the plaintext file for a code quality review, include the following information:
+
+Author of the code review
+Dylan C.
+
+Date of the code review
+4/22/2022
+
+Sprint number
+5
+
+Name of the .cs file being reviewed
+SoundEffectFactory.cs
+
+Author of the .cs file being reviewed
+Cade C.
+
+Specific comments on code quality
+The quality is exceptional and minimal for this managers implementation to have helper factories for entities and songs.
+
+A hypothetical change to make to the game related to file being reviewed and how the current implementation could or could not easily support that change
+A hypothetical change could be to seperate the song factory from SoundManager and SoundEffect factory. This could easily be implemented but also serves to
+be unnecessary.

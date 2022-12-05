@@ -1,0 +1,26 @@
+In the plaintext file for a code quality review, include the following information:
+
+Author of the code review
+Dylan C.
+
+Date of the code review
+03-11-2022
+
+Sprint number
+3
+
+Name of the .cs file being reviewed
+GameObjectManager.cs
+
+Author of the .cs file being reviewed
+Dylan C & Luke L.
+
+Specific comments on code quality
+Potential code smell for having a list for all IEntities and then individual lists for each object that extend Entity
+(which implements IEntity). 
+
+A hypothetical change to make to the game related to file being reviewed and how the current 
+implementation could or could not easily support that change
+
+A hypothetical change could be to get rid of all lists that extend Entity and leaving only list<IEntity>. Could easily 
+become a problem since each list is actually being used absent the list of all IEntities.

@@ -1,0 +1,20 @@
+Author of the code review
+	Zak Keller
+
+Date of the code review
+	03/12/2022
+
+Sprint number
+	Sprint 3
+
+Name of the .cs file being reviewed
+	Projectile.cs
+
+Author of the .cs file being reviewed
+	Luke L
+
+Number of minutes taken to complete the review
+	15 mins
+
+Specific comments on what is readable and what is not
+	Very clean with little code. Properties are easy to follow and make sense when reading. Constructor is clunky with alot of pieces. Explode and other methods are beautiful. But has a Play/StopAnimation that do nothing? but get called.

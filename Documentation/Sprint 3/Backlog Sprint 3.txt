@@ -1,0 +1,20 @@
+Sprint 3 Incompletes:
+
+Enemy movements are completely different, each movement for enemy's needs to be unique
+
+inventory system needs more work
+
+Travel between rooms with a door
+
+Moveable tiles
+
+Player and Enemy dont take damage but do collide
+
+Sword attack does not create new hitbox
+
+Multiple projectile types based on who spawned it
+
+Ability to walk over water with item
+
+Bomb specific implementation, currently just another projectile
+

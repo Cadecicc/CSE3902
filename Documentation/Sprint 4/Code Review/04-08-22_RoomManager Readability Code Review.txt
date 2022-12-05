@@ -1,0 +1,20 @@
+Author of the code review
+	Cade C.
+
+Date of the code review
+	04/08/2022
+
+Sprint number
+	Sprint 4
+
+Name of the .cs file being reviewed
+	RoomManager.cs
+
+Author of the .cs file being reviewed
+	Dylan W.
+
+Number of minutes taken to complete the review
+	5 mins
+
+Specific comments on what is readable and what is not
+	The comments included in this file are GREAT. Without them, I would be totally lost but thankfully I am not. I specifically like how the SwitchRooms method is spelled out during each step of the code. Well done and well thought out beforehand.

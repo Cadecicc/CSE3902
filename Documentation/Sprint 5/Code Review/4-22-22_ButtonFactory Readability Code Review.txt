@@ -1,0 +1,22 @@
+In the plaintext file for a readability review, include the following information:
+
+Author of the code review
+Dylan C.
+
+Date of the code review
+4-22-2022
+
+Sprint number
+5
+
+Name of the .cs file being reviewed
+ButtonFactory.cs
+
+Author of the .cs file being reviewed
+Zak Keller
+
+Number of minutes taken to complete the review
+10
+
+Specific comments on what is readable and what is not
+The whole file is pretty readable and straightforward. Was a useful guide for me to implement ToggleButtonFactory!

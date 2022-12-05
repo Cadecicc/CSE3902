@@ -1,0 +1,20 @@
+Author of the code review
+	Cade C.
+
+Date of the code review
+	04/22/2022
+
+Sprint number
+	Sprint 5
+
+Name of the .cs file being reviewed
+	ZombieLandGameState.cs
+
+Author of the .cs file being reviewed
+	Dylan W.
+
+Number of minutes taken to complete the review
+	5 minutes
+
+Specific comments on what is readable and what is not
+	There are a LOT of private variables in this class, but they are all named appropriately so they are thankfully easy to understand. The update method looks very intimidating at first glance but the comments help tremendously here. It is a fairly concise and clean class, considering it is the state for every new feature implemented for this sprint. As you go down the file, the comments become less frequent but what code is written there is easy to follow, so it is not a big deal. Overall, fairly clean and easy to read.

@@ -1,0 +1,25 @@
+Author of the code review:
+    Luke Leedy
+	
+Date of the code review:
+    02/07/2022
+	
+Sprint number:
+    Sprint 2
+	
+Name of the .cs file being reviewed:
+    AnimatorFactory.cs
+
+Author of the .cs file being reviewed:
+    Cade Ciccone
+	
+Specific comments on code quality:
+    The AnimatorFactory class correctly realized the factory pattern but was becoming
+	monolithic and needed desperately to be refactored.
+
+A hypothetical change to make to the game related to file being reviewed and how the
+current implementation could or could not easily support that change:
+    Adding more objects that require animators will become much easier to maintain, as
+	AnimatorFactory is now responsible for redirecting an object to a more specific
+	animator factory (so if an NPC needs an animator, then the AnimatorFactory will
+	pass the request along to the NPCAnimatorFactory).

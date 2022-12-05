@@ -1,0 +1,26 @@
+Author of the code review
+    Sam Reyes
+
+Date of the code review
+    03/12/22
+
+Sprint number
+    Sprint 3
+
+Name of the .cs file being reviewed
+    Game1.cs
+
+Author of the .cs file being reviewed
+    Greasy Games
+
+Number of minutes taken to complete the review
+    5 minutes
+
+Specific comments on code quality
+    The code quality of Game1 is not great. There are a lot of foreach loops for different types when they could be
+    condensed into one. Also, Player is only drawn on top because it is being iterated last which is not the way it
+    should be handled.
+
+A hypothetical change to make to the game related to file being reviewed and how the current implementation could or could not easily support that change
+    A hypothetical change would be to add a draw order to the IGoodDrawable enumerator. This would prevent having to
+    iterate through each type of Entity individually in the Draw method.
